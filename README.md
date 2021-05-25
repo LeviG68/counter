@@ -1,2 +1,4 @@
 # counter
-counter that will increment and decrement using javascript.
+counter that will increase and decrease.
+
+This application use is using javascript and by manipulating the DOM.
